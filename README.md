@@ -1,4 +1,4 @@
-# Alexa-And-GoogleHome-Control-Single-Device
+# Alexa-And-GoogleHome-Control-Single-Device (In-Progress- Not Ready)
 
 Control single ESP8266 with Alexa and Google Home using IFTTT without opening a router's port/firewal.
 
