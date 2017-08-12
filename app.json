@@ -1,0 +1,7 @@
+{
+  "name": "IFTTT Alexa And Google Home Control Single Device",
+  "description": "Works with IOT devices over the firewall with Alexa skills",
+  "repository": "https://github.com/nassir-malik/IFTTT-Alexa-And-GoogleHome-Control-Single-Device",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["esp8266", "google home", "wihtout ifttt", "iot", "arduino", "Alexa Skills"]
+}
