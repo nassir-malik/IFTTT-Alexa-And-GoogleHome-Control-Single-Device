@@ -1,5 +1,5 @@
 {
-  "name": "IFTTT Alexa & GoogleHome Control Single ESP",
+  "name": "IFTTT Alexa & GoogleHome Control ESP",
   "description": "Works with IOT devices over the firewall with Alexa skills",
   "repository": "https://github.com/nassir-malik/IFTTT-Alexa-And-GoogleHome-Control-Single-Device",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
