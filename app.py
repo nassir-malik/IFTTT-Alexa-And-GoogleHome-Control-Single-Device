@@ -49,7 +49,8 @@ class HttpWSSProtocol(websockets.WebSocketServerProtocol):
             alexagoogleRequest = self.reader._buffer.decode('utf-8')
             print("Req-->"+alexagoogleRequest)
             #googleRequestJson = json.loads(googleRequest)
-            await self.rwebsocket.send(json.dumps(alexagoogleRequest))
+            await self.rwebsocket.send(alexagoogleRequest)
+            #await self.rwebsocket.send(json.dumps(alexagoogleRequest))
 
             # #wait for response and send it back to IFTTT
             self.rddata = await self.rwebsocket.recv()
