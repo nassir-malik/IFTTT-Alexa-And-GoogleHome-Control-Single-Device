@@ -12,12 +12,12 @@
 
 
 // @@@@@@@@@@@@@@@ You only need to midify modify wi-fi and domain info @@@@@@@@@@@@@@@@@@@@
-const char* ssid     = "enter your ssid"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
-const char* password = "enter ssid password";     // enter ssid password (case sensitive)
+const char* ssid     = "suddenlink.net-AD42"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
+const char* password = "G7MBSY89C601814";     // enter ssid password (case sensitive)
 char host[] = "alexagoogleifttt.herokuapp.com"; //192.168.0.100 -enter your Heroku domain name like  "alexagoogleifttt.herokuapp.com" 
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-int port = 5687;
+int port = 80;
 char path[] = "/ws"; 
 ESP8266WiFiMulti WiFiMulti;
 WebSocketsClient webSocket;
