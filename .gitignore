@@ -48,3 +48,13 @@ Temporary Items
 test-env/
 .idea/workspace.xml
 .idea/dictionaries/Hashir.xml
+ESP8266/ESP8266_WebSocketClient/.vs/ESP8266_WebSocketClient/v14/.suo
+ESP8266/ESP8266_WebSocketClient/__vm/Compile.vmps.xml
+ESP8266/ESP8266_WebSocketClient/__vm/Compile.vmps.xml
+*.xml
+ESP8266/ESP8266_WebSocketClient/__vm/Upload.vmps.xml
+ESP8266/ESP8266_WebSocketClient/Debug/ESP8266_WebSocketClient.ino.elf
+*.bin
+ESP8266/ESP8266_WebSocketClient/Debug/ESP8266_WebSocketClient.elf
+*.bin
+*.xml
