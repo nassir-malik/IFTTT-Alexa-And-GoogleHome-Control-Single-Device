@@ -90,7 +90,7 @@ void setup() {
 
 void loop() {
     webSocket.loop();
-	//If you make change to delay mak sure adjust the ping
+	//If you make change to delay make sure adjust the ping
     delay(2000);
 	// make sure after every 40 seconds send a ping to Heroku
 	//so it does not terminate the websocket connection
